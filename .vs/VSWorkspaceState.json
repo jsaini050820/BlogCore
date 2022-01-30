@@ -1,0 +1,16 @@
+{
+  "ExpandedNodes": [
+    "",
+    "\\blogcore",
+    "\\blogcore\\Areas\\Identity",
+    "\\blogcore\\Areas\\Identity\\Pages",
+    "\\blogcore\\Areas\\Identity\\Pages\\Account",
+    "\\blogcore\\Areas\\Identity\\Services",
+    "\\blogcore\\Controllers",
+    "\\blogcore\\Models",
+    "\\blogcore\\Views",
+    "\\blogcore\\Views\\Home"
+  ],
+  "SelectedNode": "\\blogcore\\Models",
+  "PreviewInSolutionExplorer": false
+}
